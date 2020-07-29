@@ -17,8 +17,5 @@
     { "id": 3, "title": "McDonald" ,"price":406.5,"image":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"},
     { "id": 4, "title": "Uber" ,"price":507.5,"image":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"},
     { "id": 5, "title": "Nike" ,"price":608.5,"image":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"}
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
