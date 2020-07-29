@@ -1,4 +1,17 @@
 {
+  "menu": [
+    { "id": 1, "title": "item 1" },
+    { "id": 2, "title": "item 2" },
+    { "id": 3, "title": "item 3" }
+  ],
+  
+  "brands": [
+    { "id": 1, "title": "Tesla" },
+    { "id": 2, "title": "Apple" },
+    { "id": 1, "title": "McDonald" },
+    { "id": 2, "title": "Uber" },
+    { "id": 3, "title": "Nike" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
