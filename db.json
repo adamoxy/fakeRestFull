@@ -18,15 +18,6 @@
     { "id": 4, "title": "Uber" ,"price":507.5,"image":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"},
     { "id": 5, "title": "Nike" ,"price":608.5,"image":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"}
   ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
     "name": "typicode"
   }
